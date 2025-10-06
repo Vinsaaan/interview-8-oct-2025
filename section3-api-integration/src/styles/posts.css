@@ -1,0 +1,16 @@
+/* background + fonts */
+body {
+  background-color: #ffffff;
+}
+
+/*highlight long titles */
+.list-group-item.highlight-long {
+  background-color: #fff7cc !important; /* ensure visible */
+  border-color: #ffe58f !important;
+  font-weight: 500;
+}
+
+/* alert margin */
+.alert {
+  margin-top: 10px;
+}

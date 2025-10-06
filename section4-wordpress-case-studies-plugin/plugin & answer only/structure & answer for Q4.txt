@@ -1,0 +1,21 @@
+You may also found the plguin in:
+
+interview-wordpress/
+│
+└── wp-content/
+  └── plugins/
+    └── case-studies-interview/
+      └── case-studies-interview.php ← Main plugin file (CPT + shortcode + filter)
+
+
+
+
+==================================
+Explanation / Answers for #4
+==================================
+To override a plugin layout using the theme/template hierarchy, create template files inside the active theme such as:
+
+archive-case_study.php
+single-case_study.php
+
+WordPress will automatically use these theme files before the plugin’s templates, letting you customize the layout safely without editing the plugin directly.
