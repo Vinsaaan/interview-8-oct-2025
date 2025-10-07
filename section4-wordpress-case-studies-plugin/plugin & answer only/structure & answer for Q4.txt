@@ -1,4 +1,4 @@
-You may also found the plguin in:
+You may also find the plugin in:
 
 interview-wordpress/
 │
