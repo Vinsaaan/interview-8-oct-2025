@@ -22,7 +22,7 @@ Each section is organized in its own folder, with a dedicated README.txt explain
 
 •Frontend: React.js, Bootstrap 5
 
-•API Integration: JSONPlaceholder, public API, REST API
+•API Integration: JSONPlaceholder, public API, LocalStorage, Custom REST API
 
 •CMS: WordPress (Custom Plugin, PHP)
 
